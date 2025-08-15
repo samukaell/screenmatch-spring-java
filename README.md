@@ -29,7 +29,7 @@ O Screenmatch é um projeto desenvolvido durante o curso "Java: trabalhando com 
 1.  Clone o repositório:
 
     ```bash
-    git clone <URL_DO_REPOSITÓRIO>
+    git clone <https://github.com/samukaell/screenmatch-spring-java/tree/main>
     ```
 
 2.  Abra o projeto no IntelliJ IDEA.
